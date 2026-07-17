@@ -1,0 +1,23 @@
+---
+title: "Teaching"
+---
+
+# Teaching
+
+## Courses 
+
+-   Basic Statistics
+
+-   Linear Regression Analysis
+
+-   Factor Analysis
+
+-   Structural Equation Modeling
+
+-   Psychometrics
+
+## CFA Demo
+
+Github repository:
+
+<https://github.com/waraalfa/CFA-demo>

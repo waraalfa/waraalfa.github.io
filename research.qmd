@@ -1,0 +1,7 @@
+---
+title: "research"
+---
+
+# Research Projects
+
+Modeling Response Time and Response Accuracy with Item Response Theory

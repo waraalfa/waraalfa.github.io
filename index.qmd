@@ -1,0 +1,31 @@
+---
+title: "Home"
+---
+
+# Wara Alfa Syukrilla
+
+Lecturer and Researcher
+
+Welcome to my academic website
+
+# Research Interests
+
+-   Item Response Theory
+
+-   Confirmatory Factor Analysis
+
+-   Educational Measurement
+
+# Teaching
+
+-   Factor Analysis
+
+-   Linear Regression Analysis
+
+-   Structural Equation Modeling
+
+## Contact
+
+e-mail: wara.alfa\@uinjkt.ac.id
+
+e-mail: wara.alfa.syukrilla\@stat.su.se
