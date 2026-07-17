@@ -4,14 +4,14 @@
     "href": "index.html",
     "title": "Home",
     "section": "",
-    "text": "Lecturer and Researcher\nWelcome to my academic website"
+    "text": "Lecturer and Researcher\nWelcome to my academic website\n\n\n\nItem Response Theory\nConfirmatory Factor Analysis\nEducational Measurement\n\n\n\n\n\nFactor Analysis\nLinear Regression Analysis\nStructural Equation Modeling\n\n\n\n\ne-mail: wara.alfa@uinjkt.ac.id\ne-mail: wara.alfa.syukrilla@stat.su.se"
   },
   {
     "objectID": "index.html#contact",
     "href": "index.html#contact",
     "title": "Home",
-    "section": "Contact",
-    "text": "Contact\ne-mail: wara.alfa@uinjkt.ac.id\ne-mail: wara.alfa.syukrilla@stat.su.se"
+    "section": "",
+    "text": "e-mail: wara.alfa@uinjkt.ac.id\ne-mail: wara.alfa.syukrilla@stat.su.se"
   },
   {
     "objectID": "about.html",
@@ -19,5 +19,54 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "Basic Statistics\nLinear Regression Analysis\nFactor Analysis\nStructural Equation Modeling\nPsychometrics\n\n\n\n\nGithub repository:\nhttps://github.com/waraalfa/CFA-demo"
+  },
+  {
+    "objectID": "teaching.html#courses",
+    "href": "teaching.html#courses",
+    "title": "Teaching",
+    "section": "",
+    "text": "Basic Statistics\nLinear Regression Analysis\nFactor Analysis\nStructural Equation Modeling\nPsychometrics"
+  },
+  {
+    "objectID": "teaching.html#cfa-demo",
+    "href": "teaching.html#cfa-demo",
+    "title": "Teaching",
+    "section": "",
+    "text": "Github repository:\nhttps://github.com/waraalfa/CFA-demo"
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "Curriculum Vitae\nDownload PDF:\ncv.pdf"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "research",
+    "section": "",
+    "text": "Research Projects\nModeling Response Time and Response Accuracy with Item Response Theory"
+  },
+  {
+    "objectID": "index.html#research-interests",
+    "href": "index.html#research-interests",
+    "title": "Home",
+    "section": "",
+    "text": "Item Response Theory\nConfirmatory Factor Analysis\nEducational Measurement"
+  },
+  {
+    "objectID": "index.html#teaching",
+    "href": "index.html#teaching",
+    "title": "Home",
+    "section": "",
+    "text": "Factor Analysis\nLinear Regression Analysis\nStructural Equation Modeling"
   }
 ]

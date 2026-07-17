@@ -8,7 +8,7 @@ Lecturer and Researcher
 
 Welcome to my academic website
 
-# Research Interests
+## Research Interests
 
 -   Item Response Theory
 
@@ -16,7 +16,7 @@ Welcome to my academic website
 
 -   Educational Measurement
 
-# Teaching
+## Teaching
 
 -   Factor Analysis
 
