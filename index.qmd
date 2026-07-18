@@ -2,11 +2,11 @@
 title: "Home"
 ---
 
-# Wara Alfa Syukrilla
+![](img/profile.jpeg){width=200px}
 
-Lecturer and Researcher
+# About me
 
-Welcome to my academic website
+I am a Lecturer at the [Faculty of Psychology](https://fpsi.uinjkt.ac.id/en/bachelor-of-psychology) at [Syarif Hidayatullah State Islamic University](https://uinjkt.ac.id/en) and a Doctoral Researcher at the [Department of Statistics](https://www.su.se/english/divisions/department-of-statistics) at [Stockholm University](https://www.su.se/english/)
 
 ## Research Interests
 

@@ -1,7 +1,5 @@
 ---
-title: "research"
+title: "Research"
 ---
 
-# Research Projects
-
-Modeling Response Time and Response Accuracy with Item Response Theory
+I am currently work with Modeling Response Time and Response Accuracy of the Swedish national test data using Item Response Theory.

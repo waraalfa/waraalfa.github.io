@@ -2,22 +2,18 @@
 title: "Teaching"
 ---
 
-# Teaching
+I taught the following courses at the [Faculty of Psychology](https://fpsi.uinjkt.ac.id/en/bachelor-of-psychology) at [Syarif Hidayatullah State Islamic University](https://uinjkt.ac.id/en)
 
-## Courses 
+## Courses
 
 -   Basic Statistics
 
 -   Linear Regression Analysis
 
--   Factor Analysis
+-   Factor Analysis ([CFA Demo](https://github.com/waraalfa/CFA-demo))
 
 -   Structural Equation Modeling
 
 -   Psychometrics
 
-## CFA Demo
-
-Github repository:
-
-<https://github.com/waraalfa/CFA-demo>
+## 

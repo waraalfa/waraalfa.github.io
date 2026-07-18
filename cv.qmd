@@ -1,9 +1,8 @@
 ---
-title: "CV"
+title: "Curriculum Vitae"
 ---
 
-# Curriculum Vitae
 
-Download PDF:
+Download my CV below:
 
-cv.pdf
+ [CV (PDF)](cv.pdf)
