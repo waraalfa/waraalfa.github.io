@@ -10,8 +10,8 @@
     "objectID": "index.html#contact",
     "href": "index.html#contact",
     "title": "Home",
-    "section": "",
-    "text": "e-mail: wara.alfa@uinjkt.ac.id\ne-mail: wara.alfa.syukrilla@stat.su.se"
+    "section": "Contact",
+    "text": "Contact\ne-mail: wara.alfa@uinjkt.ac.id\ne-mail: wara.alfa.syukrilla@stat.su.se"
   },
   {
     "objectID": "about.html",
@@ -25,14 +25,14 @@
     "href": "teaching.html",
     "title": "Teaching",
     "section": "",
-    "text": "Basic Statistics\nLinear Regression Analysis\nFactor Analysis\nStructural Equation Modeling\nPsychometrics\n\n\n\n\nGithub repository:\nhttps://github.com/waraalfa/CFA-demo"
+    "text": "I taught the following courses at the Faculty of Psychology at Syarif Hidayatullah State Islamic University"
   },
   {
     "objectID": "teaching.html#courses",
     "href": "teaching.html#courses",
     "title": "Teaching",
-    "section": "",
-    "text": "Basic Statistics\nLinear Regression Analysis\nFactor Analysis\nStructural Equation Modeling\nPsychometrics"
+    "section": "Courses",
+    "text": "Courses\n\nBasic Statistics\nLinear Regression Analysis\nFactor Analysis (CFA Demo)\nStructural Equation Modeling\nPsychometrics"
   },
   {
     "objectID": "teaching.html#cfa-demo",
@@ -44,29 +44,29 @@
   {
     "objectID": "cv.html",
     "href": "cv.html",
-    "title": "CV",
+    "title": "Curriculum Vitae",
     "section": "",
-    "text": "Curriculum Vitae\nDownload PDF:\ncv.pdf"
+    "text": "Download my CV below:\nCV (PDF)"
   },
   {
     "objectID": "research.html",
     "href": "research.html",
-    "title": "research",
+    "title": "Research",
     "section": "",
-    "text": "Research Projects\nModeling Response Time and Response Accuracy with Item Response Theory"
+    "text": "I am currently work with Modeling Response Time and Response Accuracy of the Swedish national test data using Item Response Theory."
   },
   {
     "objectID": "index.html#research-interests",
     "href": "index.html#research-interests",
     "title": "Home",
-    "section": "",
-    "text": "Item Response Theory\nConfirmatory Factor Analysis\nEducational Measurement"
+    "section": "Research Interests",
+    "text": "Research Interests\n\nItem Response Theory\nConfirmatory Factor Analysis\nEducational Measurement"
   },
   {
     "objectID": "index.html#teaching",
     "href": "index.html#teaching",
     "title": "Home",
-    "section": "",
-    "text": "Factor Analysis\nLinear Regression Analysis\nStructural Equation Modeling"
+    "section": "Teaching",
+    "text": "Teaching\n\nFactor Analysis\nLinear Regression Analysis\nStructural Equation Modeling"
   }
 ]
